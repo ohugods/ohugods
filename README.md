@@ -161,9 +161,9 @@ Prefer **remote**. **BRT / UTC−3.**
 
 <br />
 
-**Software, systems and interfaces — built with purpose, precision and a bit of darkness.**
+**Software, systems and interfaces — built with purpose, precision and a bit of music.**
 
-<sub>Now playing: silence between notes · compiling meaning · shipping anyway</sub>
+<sub>Now playing: Radiohead: · Everything In It's Right Place</sub>
 
 <br />
 
