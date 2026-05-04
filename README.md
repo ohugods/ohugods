@@ -152,8 +152,8 @@ Prefer **remote**. **BRT / UTC−3.**
 |:---|:---|
 | **Personal / engineering** | [hugo.devbr@gmail.com](mailto:hugo.devbr@gmail.com) |
 | **Studio / commercial** | [dalmasio.dev@gmail.com](mailto:dalmasio.dev@gmail.com) |
-| **LinkedIn** | *URL placeholder — add your exact profile path* |
-| **Portfolio / site** | *Placeholder — add when ready* |
+| **LinkedIn** | https://www.linkedin.com/in/hugods/ |
+| **Portfolio / site** | https://dalmasio.dev |
 
 ---
 
